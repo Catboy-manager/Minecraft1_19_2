@@ -1,0 +1,8 @@
+#Show chance of drops
+showChance = true
+#Show minimum and maximum of drops
+showMinMax = true
+#Set max amount of fortune that should be calculated
+#Range: 0 ~ 32767
+fortunelevel = 3
+

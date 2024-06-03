@@ -1,0 +1,107 @@
+type = customizablemenus
+
+net.minecraft.client.gui.screen.MainMenuScreen {
+}
+
+net.minecraftforge.fml.client.gui.screen.ModListScreen {
+}
+
+net.minecraft.client.gui.screen.CustomizeSkinScreen {
+}
+
+com.minecraftabnormals.abnormals_core.client.screen.SlabfishHatScreen {
+}
+
+net.optifine.gui.GuiScreenCapeOF {
+}
+
+net.minecraft.client.gui.screen.LanguageScreen {
+}
+
+net.minecraft.client.gui.screen.OptionsSoundsScreen {
+}
+
+net.minecraft.client.gui.screen.ControlsScreen {
+}
+
+net.minecraft.client.gui.screen.MouseSettingsScreen {
+}
+
+net.minecraft.client.gui.screen.ChatOptionsScreen {
+}
+
+net.minecraft.client.gui.AccessibilityScreen {
+}
+
+net.minecraft.client.gui.screen.VideoSettingsScreen {
+}
+
+net.optifine.shaders.gui.GuiShaders {
+}
+
+net.optifine.gui.GuiDetailSettingsOF {
+}
+
+net.optifine.gui.GuiAnimationSettingsOF {
+}
+
+net.optifine.gui.GuiQualitySettingsOF {
+}
+
+net.optifine.gui.GuiPerformanceSettingsOF {
+}
+
+net.optifine.gui.GuiOtherSettingsOF {
+}
+
+net.minecraft.client.gui.screen.MultiplayerScreen {
+}
+
+net.minecraft.client.gui.screen.ServerListScreen {
+}
+
+net.minecraft.client.gui.screen.AddServerScreen {
+}
+
+net.minecraft.client.gui.screen.WorldSelectionScreen {
+}
+
+net.minecraft.client.gui.screen.EditWorldScreen {
+}
+
+net.minecraft.client.gui.screen.CreateWorldScreen {
+}
+
+net.minecraft.client.gui.screen.EditGamerulesScreen {
+}
+
+net.minecraft.client.gui.screen.CreateFlatWorldScreen {
+}
+
+net.minecraft.client.gui.screen.FlatPresetsScreen {
+}
+
+net.minecraft.client.gui.screen.CreateBuffetWorldScreen {
+}
+
+net.minecraft.client.gui.screen.WorldLoadProgressScreen {
+}
+
+net.minecraft.client.gui.screen.DirtMessageScreen {
+}
+
+net.minecraft.client.gui.screen.WorkingScreen {
+}
+
+net.minecraft.client.gui.screen.DownloadTerrainScreen {
+}
+
+net.minecraft.client.gui.screen.ConnectingScreen {
+}
+
+net.minecraft.client.gui.screen.StatsScreen {
+}
+
+net.minecraft.client.gui.screen.OptionsScreen {
+}
+
